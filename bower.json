@@ -1,0 +1,25 @@
+{
+    "name": "jsmicro-is-regexp",
+    "description": "Check does the given Javascript Object is a regexp.",
+    "main": "index.js",
+    "authors": [
+        "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "is-regexp",
+        "isregexp",
+        "regexp"
+    ],
+    "moduleType": [],
+    "homepage": "https://github.com/jsmicro/is-regexp",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "package.json",
+        "main.js",
+        "readme.md"
+    ]
+}
