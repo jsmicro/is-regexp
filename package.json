@@ -1,6 +1,6 @@
 {
     "name": "jsmicro-is-regexp",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Check does the given Javascript Object is a regexp.",
     "main": "main.js",
     "scripts": {
