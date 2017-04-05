@@ -30,11 +30,11 @@ bower install --save jsmicro-is-regexp
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-regexp
+npm install --save @jsmicro/is-regexp
 ```
 
 ```js
-const obj = require('jsmicro-is-regexp');
+const obj = require('@jsmicro/is-regexp');
 
 // Available in the global object.
 isRegExp(/[a-z]+/g); // true
