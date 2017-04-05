@@ -1,27 +1,27 @@
 {
-    "name": "@jsmicro/is-regexp",
-    "version": "1.0.1",
-    "description": "Check does the given Javascript Object is a regexp.",
-    "main": "main.js",
-    "scripts": {
-        "test": "node test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+ssh://git@github.com/jsmicro/is-regexp.git"
-    },
-    "keywords": [
-        "is-regexp",
-        "isregexp",
-        "regexp"
-    ],
-    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/jsmicro/is-regexp/issues"
-    },
-    "homepage": "https://github.com/jsmicro/is-regexp#readme",
-    "devDependencies": {
-        "jsmicro-test": "^1.0.1"
-    }
+  "name": "@jsmicro/is-regexp",
+  "version": "1.0.2",
+  "description": "Check does the given Javascript Object is a regexp.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsmicro/is-regexp.git"
+  },
+  "keywords": [
+    "is-regexp",
+    "isregexp",
+    "regexp"
+  ],
+  "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsmicro/is-regexp/issues"
+  },
+  "homepage": "https://github.com/jsmicro/is-regexp#readme",
+  "devDependencies": {
+    "jsmicro-test": "^1.0.1"
+  }
 }
